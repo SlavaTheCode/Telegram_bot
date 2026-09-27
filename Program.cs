@@ -16,7 +16,7 @@ class Program
 
     // ID общего чата, куда будут отправляться все сообщения
     static long targetChatId = -4811543268; // замените на свой ID чата
-    static string token = "7540758986:AAGvoK84K2Cjd_TQxSVV3AbkfasBjKcAdyQ"; // вставьте свой токен
+    static string token = "[TOP SECRET]"; // вставьте свой токен
     static string[] Article_list = new string[80] 
     {
         "Лучший городской транспорт - Трамвай\n \n https://telegra.ph/Luchshij-gorodskoj-transport--Tramvaj-06-25 \n",
